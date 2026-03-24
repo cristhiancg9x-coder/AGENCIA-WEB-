@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: https://crearwebs.com
+
+# Sitemap Location
+Sitemap: https://crearwebs.com/sitemap.xml
