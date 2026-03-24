@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cw-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#b53cff" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+  </defs>
+  <!-- Background transparent or styled -->
+  <rect width="100%" height="100%" rx="120" fill="#040508" stroke="url(#cw-gradient)" stroke-width="12"/>
+  
+  <!-- Logo Glyph -->
+  <path d="M120 180 L180 340 L230 220 L280 340 L340 180 L390 180 L310 400 L256 270 L202 400 L120 180 Z" fill="url(#cw-gradient)" />
+  
+  <!-- Sub Dot -->
+  <circle cx="256" cy="140" r="24" fill="#00f2fe" />
+</svg>
